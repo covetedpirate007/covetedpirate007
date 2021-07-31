@@ -1,6 +1,6 @@
 # covetedpirate007-
 Hi there 👋
-
+<br />
 ![Coveted's GitHub stats](https://github-readme-stats.vercel.app/api?username=covetedpirate007&show_icons=true&theme=radical)
 
 <br />
@@ -10,7 +10,7 @@ I like listening to songs. Checkout my lastfm <br />
 
 <br />
 <br />
-<br />
+
 
 Have fun reading these random jokes😅
 <!-- Markdown -->
