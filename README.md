@@ -6,6 +6,10 @@ Hi there 👋
 <br />
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ways_unknown&count=1)
+<br />
+<br />
+><br />
 
-
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
