@@ -5,7 +5,7 @@ Hi there 👋
 
 <br />
 
-I like listening to songs. Checkout my lastfm
+I like listening to songs. Checkout my lastfm <br />
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ways_unknown&count=1)
 
 <br />
