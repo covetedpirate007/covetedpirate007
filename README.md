@@ -5,11 +5,14 @@ Hi there 👋
 
 <br />
 
+I like listening to songs. Checkout my lastfm
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ways_unknown&count=1)
-<br />
-<br />
-><br />
 
+<br />
+<br />
+<br />
+
+Have fun reading these random jokes😅
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
